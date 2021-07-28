@@ -1,6 +1,13 @@
 ## 搬砖实验室
 
-Linux\,内核
+搬砖实验室，主要搞搞Bootloader移植，RTOS移植，Linux移植。另外还有专项的搬砖研究。
+民科风格，设备有限，专业有限，但力求在实践到得到检验和理论上得到根据。
+
+- 锂电池充电以及功耗研究以及应用。
+- 矢量字体在嵌入式设备中的应用。
+- 沁恒多串口卡驱动。
+- 内核移植研究。
+
 You can use the [editor on GitHub](https://github.com/hodcarrier/hodcarrier.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
